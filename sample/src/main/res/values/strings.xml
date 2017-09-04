@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoCompressor</string>
+    <string name="select_file">Select file</string>
+    <string name="compress_video">Compress video</string>
+
+</resources>
